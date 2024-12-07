@@ -1,0 +1,15 @@
+/* CSS File for Tractor */
+
+/* This file contains the CSS for the tractor.html file */
+/* It is used to style the tractor and its components */
+do the code here
+/*John Deere green and yellow */
+/*header1*/
+h1{
+    color: #367C2B;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}

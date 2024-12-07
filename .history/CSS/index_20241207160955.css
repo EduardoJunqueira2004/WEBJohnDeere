@@ -1,0 +1,79 @@
+/* This file contains the CSS for the index.html file */
+/*John Deere green and yellow */
+/*proprie*/
+body {
+    background-color: yellow;
+    color: #367C2B;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+* {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/*header1*/
+h1{
+    color: #367C2B;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*header2*/
+h2{
+    color: #367C2B;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*header3*/
+h3{
+    color: #367C2B;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*header4*/
+h4{
+    color: #367C2B;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*header5*/
+h5{
+    color: #367C2B;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*header6*/
+h6{
+    color: #367C2B;
+    font-size: 0.6em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*paragraph*/
+p{
+    font-size: 1em;
+    font-weight: normal;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+}
